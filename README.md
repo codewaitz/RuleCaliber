@@ -4,4 +4,4 @@
 2、支持滚动选择卡尺值<br/>
 3、支持定位到非刻度上<br/><br/>
 运行实例结果图：<br/><br/>
-![Image](https://github.com/iyaka/RuleCaliber/blob/master/rule_caliber.png)
+<img src="https://github.com/iyaka/RuleCaliber/blob/master/rule_caliber.png" width="60%" alt="卡尺选择器<">
